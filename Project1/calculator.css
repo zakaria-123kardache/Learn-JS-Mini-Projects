@@ -8,8 +8,11 @@ body{
     margin: 0;
 }
 
+
+
 .calculator{
-    width: 300px;
+    
+    width: 400px;
     background-color: brown;
     border: 1px solid yellow;
     border-radius: 10px;
